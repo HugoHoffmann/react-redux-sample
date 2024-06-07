@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "ad41",
+      "title": "Test 1",
+      "completed": false,
+      "createdAt": "2024-06-07T13:54:33.476Z"
+    },
+    {
+      "id": "dece",
+      "title": "Test 2",
+      "completed": true,
+      "createdAt": "2024-06-07T13:54:36.188Z"
+    },
+    {
+      "id": "8e21",
+      "title": "Test 3",
+      "completed": false,
+      "createdAt": "2024-06-07T13:54:38.777Z"
+    }
+  ]
+}
